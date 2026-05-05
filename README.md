@@ -33,20 +33,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishitabery&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishitabery&layout=compact&theme=tokyonight" />
-</p>
+- 🔹 Building AI-powered systems combining ML + backend logic  
+- 🔹 Developing full-stack applications with real-time features  
+- 🔹 Working on computer vision and NLP-based solutions  
 
 ---
 
-## 🔥 Activity
+## 🧩 What I’m Exploring
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishitabery&theme=tokyonight&cache_seconds=1800" />
-</p>
+- Improving model performance and efficiency  
+- Connecting ML models with real-world applications  
+- Building scalable backend systems  
 
 ---
 
