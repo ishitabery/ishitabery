@@ -3,9 +3,9 @@
 ---
 ## ⭐ Featured Work
 
-- 🔹 Building AI-powered systems combining ML + backend logic  
-- 🔹 Developing full-stack applications with real-time features  
-- 🔹 Working on computer vision and NLP-based solutions  
+🔹 Building AI-powered systems combining ML + backend logic  
+🔹 Developing full-stack applications with real-time features  
+🔹 Working on computer vision and NLP-based solutions  
 
 ---
 
