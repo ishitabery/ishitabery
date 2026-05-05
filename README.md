@@ -36,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitabery&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitabery&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitabery&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitabery&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -59,3 +59,4 @@
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishita%20Bery-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ishita-bery)
+[![Gmail](https://img.shields.io/badge/Gmail-ishitabery22@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitabery22@gmail.com)
