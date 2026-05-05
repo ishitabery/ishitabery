@@ -1,69 +1,66 @@
+# Hi 👋, I'm Ishita
 
-
-<!--
-**ishitabery/ishitabery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi 👋, I'm Ishita
-
-I like building systems that combine machine learning with real-world applications.  
-My work focuses on connecting models, data, and user-facing applications into complete solutions.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Full-Stack+Developer;Machine+Learning+Enthusiast;Building+End-to-End+Systems&center=true&width=500&height=45">
 
 ---
 
-## 🧠 What I Work On
-- Machine Learning & Deep Learning  
-- Natural Language Processing  
-- Computer Vision  
-- Full-stack application development  
+## 🧠 About Me
+I enjoy building systems that combine machine learning with real-world applications.  
+I like working across the stack — from models to user-facing applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Languages
-- Python, Java, C++, JavaScript  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 AI / ML
-- TensorFlow, CNNs, NLP, Computer Vision  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Frontend
-- React, HTML, CSS, Tailwind  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Cloud
-- Firebase (Auth, Firestore, Storage)  
-- REST-style application logic  
-
-### 📦 Tools
-- Git, GitHub, VS Code, Jupyter  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 🚀 Projects
-A mix of AI systems, full-stack apps, and experimental builds:
+## 📊 GitHub Stats
 
-- ML models for classification and detection  
-- Applications integrating backend logic with frontend interfaces  
-- Systems combining rule-based logic with machine learning  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitabery&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitabery&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishitabery&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 What I Build
+- Machine learning models for classification and detection  
+- AI systems integrated with real applications  
+- Full-stack projects with real-time data  
 
 ---
 
 ## 📌 Current Focus
-- Building scalable ML-powered applications  
-- Improving model performance and deployment  
-- Exploring better integration between backend systems and AI models  
+- Building scalable AI-powered applications  
+- Improving model performance  
+- Connecting backend systems with ML pipelines  
 
 ---
 
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/ishita-bery
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishita%20Bery-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ishita-bery)
