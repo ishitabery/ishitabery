@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ishitabery/ishitabery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Ishita
+## Hi 👋, I'm Ishita
 
 I like building systems that combine machine learning with real-world applications.  
 My work focuses on connecting models, data, and user-facing applications into complete solutions.
